@@ -1,5 +1,4 @@
 # Welcome to Nautica
-
 Sebuah repository serverless tunnel studi kasus Indonesia
 
 # Fitur
@@ -77,3 +76,5 @@ Berikut cara aktivasinya:
 
 - Hal aneh lain yang saya kerjakan [FoolVPN](https://t.me/foolvpn)
 - Tanya-tanya -> [Telegram](https://t.me/d_fordlalatina)
+
+thanks to @d_fordlalatina
