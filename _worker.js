@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "aravpnst.xyz"; // Ganti dengan domain utama kalian
 const serviceName = "zero"; // Ganti dengan nama workers kalian
-const apiKey = "b86dc1c91b71168b58b131bf932276312f29a"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "7vRr4z43cTNJYSUcwyrQ8mLiK_OoTGicc51_e-Gl"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "iponkscrms@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "de9954408f2463b510c56a9a2d090c71"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "d9a298686182918ae7732c3852c7b2c3"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
